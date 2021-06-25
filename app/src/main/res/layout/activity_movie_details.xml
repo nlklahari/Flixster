@@ -66,16 +66,17 @@
 
     <RatingBar
         android:id="@+id/rbVoteAverage"
-        style="@android:style/Widget.DeviceDefault.RatingBar"
+        style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvTitle"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="false"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="85dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="9dp"
         android:background="#EF9EAA"
+        android:clickable="false"
         android:numStars="5"
         android:stepSize="1" />
 
