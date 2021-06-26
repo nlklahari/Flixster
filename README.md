@@ -30,7 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nlklahari/Flixster/blob/master/walkthrough.gif' />
+
+Here is the walkthrough in landscape mode:
+
+<img src='https://github.com/nlklahari/Flixster/blob/master/walkthrough_land.gif' />
 
 GIF created with [Kap](https://getkap.co/).
 
